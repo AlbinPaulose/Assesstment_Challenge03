@@ -1,0 +1,8 @@
+D:\C# programs\Assignment3\bin\Debug\Assignment3.exe.config
+D:\C# programs\Assignment3\bin\Debug\Assignment3.exe
+D:\C# programs\Assignment3\bin\Debug\Assignment3.pdb
+D:\C# programs\Assignment3\obj\Debug\Assignment3.csproj.AssemblyReference.cache
+D:\C# programs\Assignment3\obj\Debug\Assignment3.csproj.SuggestedBindingRedirects.cache
+D:\C# programs\Assignment3\obj\Debug\Assignment3.csproj.CoreCompileInputs.cache
+D:\C# programs\Assignment3\obj\Debug\Assignment3.exe
+D:\C# programs\Assignment3\obj\Debug\Assignment3.pdb
